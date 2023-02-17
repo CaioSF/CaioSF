@@ -1,6 +1,6 @@
 ## Opa! Me chamo Caio Silva
 
-- 📚 Estudando JavaScript
+
 - 🎓 Cursando Sistemas de Informação
 
 <div align="center">
