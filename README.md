@@ -13,7 +13,7 @@
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Caio-Postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgre/postgre-original.svg">
+  
   <img align="right" alt="Caio-icon" height="250px" width="250px"  style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/511574602472882177/1035343861452652544/Design_sem_nome.gif">
   
   
